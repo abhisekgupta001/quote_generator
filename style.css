@@ -14,7 +14,7 @@ body {
       rgba(81, 45, 105, 0.6)
     ),
     url(./bg.jpg);
-  color: #000;
+  color: #fff;
   font-family: "Cookie", cursive;
   font-weight: 400;
   font-style: italic;
@@ -27,7 +27,7 @@ body {
 #quote-container {
   width: auto;
   max-width: 900px;
-  padding: 60px 40px;
+  padding: 30px 25px;
   border-radius: 10px;
   background: linear-gradient(35deg, #464466, #6c7487);
   color: #fff;
@@ -35,12 +35,12 @@ body {
 }
 
 .quote-text {
-  font-size: 3rem;
+  font-size: 2.5rem;
   letter-spacing: 0.1rem;
 }
 
 .long-quote {
-  font-size: 2rem;
+  font-size: 2.1rem;
 }
 
 .fa-quote-left {
